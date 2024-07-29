@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth
 - 👀 I’m a Software Developer
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me - gmail - siddharthrsharan@gmail.com
 - 😄 Pronouns: He/Him
 
